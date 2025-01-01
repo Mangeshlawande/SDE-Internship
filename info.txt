@@ -1,0 +1,32 @@
+1. virtual environment
+ >>    sudo apt install python3-venv
+
+     python3 -m venv my_virtual_env
+
+    source my_virtual_env/bin/activate
+
+sudo apt install python3-django
+django-admin --version
+deactivate
+
+// how to install python3 django in ubuntu
+>> to start django project 
+django-admin startproject URL_shortner
+cd URL_shortner
+
+pip install django
+django-admin --version
+
+>> start server :: manage.py python3 handle server
+python3 manage.py
+
+//Step 4 — Creating a Django Test Project
+Setting Firewall Rules
+
+>>sudo ufw allow 8000
+
+ls
+less manage.py
+/////////////////////////////////////////
+apt-get update
+sudo apt-get install python3-virtualenv
