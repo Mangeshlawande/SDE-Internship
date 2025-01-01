@@ -1,0 +1,2 @@
+templates  folder for html file 
+static folder for css ans js files 

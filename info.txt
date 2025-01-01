@@ -30,3 +30,16 @@ less manage.py
 /////////////////////////////////////////
 apt-get update
 sudo apt-get install python3-virtualenv
+===================
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+>> virtualenv myenv
+
+>>   source myenv/bin/activate( cmd work )
+
+>>  python3 manage.py runserver ( working cmd )
+
+===============
+1. step creating your app using command
+ >> django-admin startapp myapp
